@@ -162,7 +162,7 @@ Use the VBScript wrapper (`run_wallpaper_rotator.vbs`) instead of calling Python
 
 ## Credits
 
-**Created by**: [Basil Eagle](https://github.com/basileagle)
+**Created by**: [Basil Eagle](https://github.com/EnemigoPython)
 
 **AI Development Partner**: Claude (Anthropic) - Contributed significantly to the technical implementation, including:
 - Solving the Windows 11 virtual desktop compatibility issues
